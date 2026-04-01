@@ -1,11 +1,11 @@
 # Yanbai Li
 
-## About Me
+## Styling Text (about me)
 Hello! My name is Yanbai Li. I am a Computer Science student who enjoys building projects and learning new technologies.
 
 ## Table of Contents
 - [Yanbai Li](#yanbai-li)
-  - [About Me](#about-me)
+  - [Styling Text (about me)](#styling-text-about-me)
   - [Table of Contents](#table-of-contents)
   - [Programming Interests](#programming-interests)
   - [My Goals](#my-goals)
@@ -14,6 +14,9 @@ Hello! My name is Yanbai Li. I am a Computer Science student who enjoys building
   - [Quote](#quote)
   - [Code Example](#code-example)
   - [Links](#links)
+  - [Ordered List](#ordered-list)
+  - [Unordered List](#unordered-list)
+  - [Task List](#task-list)
   - [Picture](#picture)
 
 ## Programming Interests
@@ -52,6 +55,22 @@ Here is a [section link back to About Me](#about-me).
 Here is a [relative link to README.md](README.md).
 
 Here is a [relative link to an image file](profile.jpg).
+
+## Ordered List
+1. Learn Git
+2. Practice coding
+3. Build projects
+
+## Unordered List
+- Python
+- Java
+- Web development
+
+## Task List
+- [x] Create a user page
+- [x] Add a picture
+- [ ] Learn more Markdown
+- [ ] Build more projects
 
 ## Picture
 ![My picture or a picture I like](profile.jpg)
